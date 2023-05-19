@@ -3,7 +3,7 @@
 
 - 🔭 Cursando Sistema de Informação no Instituto Federal Goiano 
 - 🌱 Estudando linguagens de Backend
-- 💬 Em busca do meu primeiro Estágio/Emprego na área da Tecnologia
+- 💬 Em busca do meu primeiro Estágio ou Emprego na área da Tecnologia
 
 
 <div style="display: inline_block"><br>
