@@ -11,7 +11,7 @@
   <img align="center" alt="Jv-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg">
 
   <img align="center" alt="jv-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e472y5qpm058ecs9rqx6qvxteg0sgl320ic5fkvok40&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47n3195k42rdodedu1xu78jxknbld6q0mjw2n6uubf&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 </div>
 
