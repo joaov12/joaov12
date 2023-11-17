@@ -3,7 +3,7 @@
 
 - 🔭 Cursando Sistema de Informação no Instituto Federal Goiano 
 - 🌱 Estudando linguagens de Backend
-- 💬 Em busca do meu primeiro Estágio ou Emprego na área da Tecnologia
+- 💬 Estagiário de Machine Learning com AWS na Compas UOL
 
 <div style="display: inline_block"><br>
   
