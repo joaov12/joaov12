@@ -1,9 +1,9 @@
 ### Olá! Eu sou o João Vitor 👋
 
 
-- 🔭 Cursando Sistema de Informação no Instituto Federal Goiano 
-- 🌱 Estudando linguagens de Backend
-- 💬 Estagiário de Machine Learning com AWS na Compas UOL
+- 🔭 Cursando Sistema de Informação no Instituto Federal Goiano!
+- 🌱 Estudando linguagens de Backend!
+- 💬 Estagiário de Machine Learning com AWS na Compas UOL!
 
 <div style="display: inline_block"><br>
   
