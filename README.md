@@ -17,7 +17,10 @@
   <img align="center" alt="Jv-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 
 
+  <img align="center" alt="jv-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="jv-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+
+  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47o43ldqho2gyykhzq30j93c65lwhnkbsme3ulub4f&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 </div>
