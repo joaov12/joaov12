@@ -1,6 +1,7 @@
 ### Olá! Eu sou o João Vitor!! 👋
 
-- 🌱 Eu sou um programador :) 
+- 💻 AI & ML Developer na Compass UOL
+- 🎓 Cursando Sistemas de Informação no Instituto Federal Goiano - IFGO
 
 <div style="display: inline_block"><br>
   
@@ -18,14 +19,20 @@
   <img align="center" alt="jv-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   
   <img align="center" alt="jv-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47o43ldqho2gyykhzq30j93c65lwhnkbsme3ulub4f&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+  <img align="right" alt="c" height="150" style="border-radius:20px;" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47o43ldqho2gyykhzq30j93c65lwhnkbsme3ulub4f&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 </div>
 
-  ##
- 
+
+
+<br><br>
+### 1x AWS Certified
+
+  
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/36f76a32-f1f9-4a0c-9a8f-23dd8f409d57 "AWS Certified Cloud Practitioner")
+
+
+ # Contato
 <div>
   <a href="https://instagram.com/jviitorsoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </a> 
@@ -33,8 +40,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-farias-soares-216870238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-  ##
+<br>
 
  <div>
   <a href="https://github.com/joaov12">
