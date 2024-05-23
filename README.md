@@ -29,7 +29,7 @@
 ### 1x AWS Certified
 
   
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/36f76a32-f1f9-4a0c-9a8f-23dd8f409d57 "AWS Certified Cloud Practitioner")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/cc7f19b4-2576-4c41-ab01-c2f92cae0c58/ "AWS Certified Cloud Practitioner")
 
 
  # Contato
