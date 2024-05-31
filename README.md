@@ -5,14 +5,13 @@
   <br><br>
 - 💼 **Experiência:**
   
-  - **Programador I - AI & ML Developer** - <a href="https://compass.uol">Compass UOL</a>: _Junho 2024 - **Atualmente nesse cargo**_
-      <!-- - Stack: -->
-      <br><br>
-  - **Estagiário de Machine Learning com AWS** - <a href="https://compass.uol">Compass UOL</a>: _Novembro 2023 - Abril 2024_
-      - ** Stack: AWS Services(EC2, S3, Lambda, DynamoDB, ML Services, etc...), Python, JavaScript, Node.Js, Docker, BD: SQL/NoSQL.**
+  - **Programador I - AI & ML Developer** - <a href="https://compass.uol">Compass UOL</a>:&nbsp;&nbsp; _Maio 2024 - **Atualmente nesse cargo**_
+  <br><br>
+  - **Estagiário de Machine Learning com AWS** - <a href="https://compass.uol">Compass UOL</a>:&nbsp;&nbsp; _Novembro 2023 - Abril 2024_
+      - **Stack: AWS Services(EC2, S3, Lambda, DynamoDB, ML Services, etc...), Python, JavaScript, Node.Js, Docker, BD: SQL/NoSQL.**
 
 
-<br><br>
+  <br>
  ## Hards Skills
 <div style="display: inline_block"><br>
   
