@@ -2,7 +2,18 @@
 
 - 💻 AI & ML Developer na Compass UOL
 - 🎓 Cursando Sistemas de Informação no Instituto Federal Goiano - IFGO
+  <br><br>
+- 💼 **Experiência:**
+  
+  - **Programador I - AI & ML Developer** - <a href="https://compass.uol">Compass UOL</a>: _Junho 2024 - **Atualmente nesse cargo**_
+      <!-- - Stack: -->
+      <br><br>
+  - **Estagiário de Machine Learning com AWS** - <a href="https://compass.uol">Compass UOL</a>: _Novembro 2023 - Abril 2024_
+      - ** Stack: AWS Services(EC2, S3, Lambda, DynamoDB, ML Services, etc...), Python, JavaScript, Node.Js, Docker, BD: SQL/NoSQL.**
 
+
+<br><br>
+ ## Hards Skills
 <div style="display: inline_block"><br>
   
           
@@ -19,10 +30,9 @@
   <img align="center" alt="jv-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   
   <img align="center" alt="jv-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="right" alt="c" height="150" style="border-radius:20px;" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47o43ldqho2gyykhzq30j93c65lwhnkbsme3ulub4f&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+
 
 </div>
-
 
 
 <br><br>
