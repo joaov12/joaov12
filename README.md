@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Vitor!! 👋
 
-- 💻 AI & ML Developer na Compass UOL
+- 💻 Backend Developer and AI & ML Developer 
 - 🎓 Cursando Sistemas de Informação no Instituto Federal Goiano - IFGO
   <br><br>
 - 💼 **Experiência:**
