@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Vitor!! 👋
 
-- 💻 Backend Developer and AI & ML Developer 
+- 💻 Backend and AI & ML Developer 
 - 🎓 Cursando Sistemas de Informação no Instituto Federal Goiano - IFGO
   <br><br>
 - 💼 **Experiência:**
