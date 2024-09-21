@@ -42,6 +42,15 @@
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/cc7f19b4-2576-4c41-ab01-c2f92cae0c58/ "AWS Certified Cloud Practitioner")
 
 
+<br>
+
+ <div>
+  <a href="https://github.com/joaov12">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaov12&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
  # Contato
 <div>
   <a href="https://instagram.com/jviitorsoares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -49,11 +58,4 @@
   <a href = "mailto:jvfs12th@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-farias-soares-216870238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-<br>
-
- <div>
-  <a href="https://github.com/joaov12">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaov12&layout=compact&langs_count=7&theme=dracula"/>
 </div>
