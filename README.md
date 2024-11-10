@@ -36,19 +36,16 @@
 
 
 <br><br>
-### 1x AWS Certified
-
+### 2x AWS Certified
   
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/cc7f19b4-2576-4c41-ab01-c2f92cae0c58/ "AWS Certified Cloud Practitioner")
-
-
+<a href="https://www.credly.com/badges/cc7f19b4-2576-4c41-ab01-c2f92cae0c58/" title="AWS Certified Cloud Practitioner" target="_blank">
+    <img src="https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="130" height="130">
+</a>
+<a href="https://www.credly.com/badges/c33c6e45-a786-4428-b958-091b09443bde/public_url" title="AWS Certified AI Practitioner" target="_blank">
+    <img src="https://images.credly.com/size/130x130/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="130" height="130">
+</a>
 <br>
-
- <div>
-  <a href="https://github.com/joaov12">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaov12&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<br>
 
 
  # Contato
