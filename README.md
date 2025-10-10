@@ -1,18 +1,21 @@
-### Olá! Eu sou o João Vitor!! 👋
+## Olá! Eu sou o João Vitor!! 👋
 
 - 💻 Backend Developer 
 - 🎓 Instituto Federal Goiano - IFGO
   <br><br>
-- 💼 **Experiência:**
-  
+## - 💼 **Experiência:**
+  ### **CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicações**
+  - **Desenvolvedor Backend Java** - <a href="https://www.cpqd.com.br/">CPQD</a>:&nbsp;&nbsp; _Outubro 2025_ - _O momento_
+     - **Stack: Java, Spring Framework, GraphQL, Docker, Cloud, Kubernets, Grafana**  
+
+  ### **Compass UOL - 1 ano e 11 meses**
   - **Programador I - AI & ML Developer** - <a href="https://compass.uol">Compass UOL</a>:&nbsp;&nbsp; _Maio 2024_ - _Outubro 2025_
      - **Stack: Amazon Web Services, Backend Development, IaC, Python, JavaScript, Node.Js, DynamoDB, AWS Lambda, AWS EC2, Docker**
   <br><br>
   - **Estagiário de Machine Learning com AWS** - <a href="https://compass.uol">Compass UOL</a>:&nbsp;&nbsp; _Novembro 2023_ - _Abril 2024_
       - **Stack: AWS Services(EC2, S3, Lambda, DynamoDB, ML Services, etc...), Python, JavaScript, Node.Js, Docker, SQL/NoSQL Databases.**
 
-
-  <br>
+<br><br>
  ## Hards Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Jv-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
