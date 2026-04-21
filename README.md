@@ -15,33 +15,23 @@
   - **Estagiário de Machine Learning com AWS** - <a href="https://compass.uol">Compass UOL</a>:&nbsp;&nbsp; _Novembro 2023_ - _Abril 2024_
       - **Stack: AWS Services(EC2, S3, Lambda, DynamoDB, ML Services, etc...), Python, JavaScript, Node.Js, Docker, SQL/NoSQL Databases.**
 
-<br><br>
- ## Hards Skills
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jv-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Jv-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-    <img align="center" alt="Jv-aws" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 
-  <img align="center" alt="Jv-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" alt="Jv-rabbitmq" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg">
-  <img align="center" alt="Jv-kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
-    <img align="center" alt="Jv-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Jv-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Jv-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Jv-redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
+## Hard Skills
 
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,rabbitmq,kafka,mysql,postgres,mongodb,redis&perline=10" />
+  </a>
+</p>
 
 
-
-<br><br>
 ### 2x AWS Certified
-  
-<a href="https://www.credly.com/badges/cc7f19b4-2576-4c41-ab01-c2f92cae0c58/" title="AWS Certified Cloud Practitioner" target="_blank">
-    <img src="https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="130" height="130">
-</a>
-<a href="https://www.credly.com/badges/c33c6e45-a786-4428-b958-091b09443bde/public_url" title="AWS Certified AI Practitioner" target="_blank">
-    <img src="https://images.credly.com/size/130x130/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner" width="130" height="130">
+
+<a href="https://www.credly.com/badges/cc7f19b4-2576-4c41-ab01-c2f92cae0c58/" target="_blank">
+  <img src="https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="130">
+</a>&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/c33c6e45-a786-4428-b958-091b09443bde/public_url" target="_blank">
+  <img src="https://images.credly.com/size/130x130/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="130">
 </a>
 <br>
 <br>
