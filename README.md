@@ -5,11 +5,11 @@
   <br><br>
 ## - 💼 **Experiência:**
   ### **CPQD - Centro de Pesquisa e Desenvolvimento em Telecomunicações**
-  - **Desenvolvedor Backend Java** - <a href="https://www.cpqd.com.br/">CPQD</a>:&nbsp;&nbsp; _Outubro 2025_ - _O momento_
+  - **Desenvolvedor de Software** - <a href="https://www.cpqd.com.br/">CPQD</a>:&nbsp;&nbsp; _Outubro 2025_ - _O momento_
      - **Stack: Java, Spring Framework, GraphQL, Docker, Cloud, Kubernets, Grafana**  
 
   ### **Compass UOL - 1 ano e 11 meses**
-  - **Programador I - AI & ML Developer** - <a href="https://compass.uol">Compass UOL</a>:&nbsp;&nbsp; _Maio 2024_ - _Outubro 2025_
+  - **Desenvolvedor de Software - AI & ML Developer** - <a href="https://compass.uol">Compass UOL</a>:&nbsp;&nbsp; _Maio 2024_ - _Outubro 2025_
      - **Stack: Amazon Web Services, Backend Development, IaC, Python, JavaScript, Node.Js, DynamoDB, AWS Lambda, AWS EC2, Docker**
   <br><br>
   - **Estagiário de Machine Learning com AWS** - <a href="https://compass.uol">Compass UOL</a>:&nbsp;&nbsp; _Novembro 2023_ - _Abril 2024_
@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,rabbitmq,kafka,mysql,postgres,mongodb,redis&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,aws,azure,linux,docker,kubernetes,rabbitmq,kafka,jenkins,mysql,postgres,mongodb,redis,ts,html,css,quarkus&perline=19" />
   </a>
 </p>
 
