@@ -1,7 +1,6 @@
-## Olá! Eu sou o João Vitor!! 👋
+## Hey! I'm Vitor! 👋
 
-- 💻 Backend Developer 
-- 🎓 Instituto Federal Goiano - IFGO
+- 💻 Software Engineer 
   <br>
 
 ## Skills
